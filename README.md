@@ -29,6 +29,7 @@ ipl-data-analysis/
 │    └── deliveries.csv
 ├── sql/
 │   └── IPL SQL ANALYSIS.pdf                     # query + output screenshots
+│   └── IPL SQL ANALYSIS.sql                     # SQL queries
 ├── powerbi/
 │   ├── IPL_Dashboard.pbix                       # Power BI Dashboard
 └── README.md
