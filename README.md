@@ -32,4 +32,5 @@ ipl-data-analysis/
 │   └── IPL SQL ANALYSIS.sql                     # SQL queries
 ├── powerbi/
 │   ├── IPL_Dashboard.pbix                       # Power BI Dashboard
+│   ├── IPL_Dashboard.pdf                        # Power BI Dashboard pdf copy
 └── README.md
